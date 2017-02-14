@@ -1,0 +1,6 @@
+c:\users\asif\documents\visual studio 2015\Projects\Matrix_Rotation\Matrix_Rotation\bin\Debug\Matrix_Rotation.exe.config
+c:\users\asif\documents\visual studio 2015\Projects\Matrix_Rotation\Matrix_Rotation\bin\Debug\Matrix_Rotation.exe
+c:\users\asif\documents\visual studio 2015\Projects\Matrix_Rotation\Matrix_Rotation\bin\Debug\Matrix_Rotation.pdb
+c:\users\asif\documents\visual studio 2015\Projects\Matrix_Rotation\Matrix_Rotation\obj\Debug\Matrix_Rotation.csprojResolveAssemblyReference.cache
+c:\users\asif\documents\visual studio 2015\Projects\Matrix_Rotation\Matrix_Rotation\obj\Debug\Matrix_Rotation.exe
+c:\users\asif\documents\visual studio 2015\Projects\Matrix_Rotation\Matrix_Rotation\obj\Debug\Matrix_Rotation.pdb

@@ -1,0 +1,6 @@
+c:\users\asif\documents\visual studio 2015\Projects\Oops_inheritance\Oops_inheritance\bin\Debug\Oops_inheritance.exe.config
+c:\users\asif\documents\visual studio 2015\Projects\Oops_inheritance\Oops_inheritance\bin\Debug\Oops_inheritance.exe
+c:\users\asif\documents\visual studio 2015\Projects\Oops_inheritance\Oops_inheritance\bin\Debug\Oops_inheritance.pdb
+c:\users\asif\documents\visual studio 2015\Projects\Oops_inheritance\Oops_inheritance\obj\Debug\Oops_inheritance.csprojResolveAssemblyReference.cache
+c:\users\asif\documents\visual studio 2015\Projects\Oops_inheritance\Oops_inheritance\obj\Debug\Oops_inheritance.exe
+c:\users\asif\documents\visual studio 2015\Projects\Oops_inheritance\Oops_inheritance\obj\Debug\Oops_inheritance.pdb

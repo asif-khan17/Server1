@@ -1,0 +1,65 @@
+//  Write some awesome Swift code, or import libraries like "Foundation",
+//  "Dispatch", or "Glibc"
+
+struct Employee{
+    var employeeName : String
+    
+    var employeeId : Int
+    
+    var empName : String {
+        
+        set(name){
+            employeeName = name
+        }
+		get{
+            return employeeName
+        }
+    }
+    
+    var id : Int {
+        
+        set(Id){
+            employeeId = Id
+        }
+		get{
+            return employeeId
+        }
+    }
+}
+
+struct EmployeeAdmin{
+    var employeeArray = [Employee]()
+    
+    mutating func addEmployee(employee : Employee){
+        
+        var employeeVerification : Bool = true
+        
+        for emp in employeeArray {
+            if emp.employeeId == employee.id{
+                print("Employee Already exist");
+                employeeVerification = false
+            }
+        }
+        
+        if employeeVerification {
+            employeeArray.append(employee)
+        }
+    }
+    
+    mutating func removeEmployee(empID : Int){
+        
+        var index : Int = 0
+        
+        for emp in employeeArray {
+            
+            if emp.employeeId == empID {
+                employeeArray.remove(at: index)
+            }
+            
+            index = index + 1
+        }
+        
+    }
+    
+}
+

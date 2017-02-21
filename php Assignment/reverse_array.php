@@ -6,28 +6,34 @@ echo "Enter the number of elements";
 
 $number=read_stdin();
 $n=$number;
-$numbers[10];
+$numbers=array();
 
 
 
-echo "Enter the elements";
-for($i=1; $i<=number; $i++)
+echo "Enter the elements\n";
+for($i=0; $i<$number; $i++)
 {
-	$numbers[$i]=read_stdin();
+	array_push($numbers,read_stdin());
 	
 }
 
-echo($numbers);
 
-for($i=1; $i<=($number/2); $i++)
+
+for($i=0; $i<($number/2); $i++)
 {
-	$temp=$numbers[$n];
-	$numbers[$i]=$numbers[$n];
-	$numbers[$n]=$temp;
+	$temp=$numbers[$i];
+	$numbers[$i]=$numbers[$n-1];
+	$numbers[$n-1]=$temp;
 	$n--;
 	
 }
-echo($numbers);
+echo "After Inversion\n";
+for($i=0; $i<$number; $i++)
+{
+	echo($numbers[$i]."\n");
+	
+}
+
 
 
 

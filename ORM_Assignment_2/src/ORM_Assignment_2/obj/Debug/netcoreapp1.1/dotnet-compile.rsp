@@ -1,5 +1,5 @@
---temp-output:C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\obj\Debug\netcoreapp1.1\
---out:C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\bin\Debug\netcoreapp1.1\ORM_Assignment_2.dll
+--temp-output:D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\obj\Debug\netcoreapp1.1\
+--out:D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\bin\Debug\netcoreapp1.1\ORM_Assignment_2.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_1
@@ -115,21 +115,21 @@
 --reference:C:\Users\asif\.nuget\packages\System.Threading.Timer\4.3.0\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\asif\.nuget\packages\System.Xml.ReaderWriter\4.3.0\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\asif\.nuget\packages\System.Xml.XDocument\4.3.0\ref\netstandard1.3\System.Xml.XDocument.dll
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\ProductModel.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Program.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\UpdateAndProduct.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\UpdateModel.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221122500_Migration Added.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221122500_Migration Added.Designer.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123146_Migration Added_1.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123146_Migration Added_1.Designer.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123624_Migration Added_2.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123624_Migration Added_2.Designer.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123832_Migration Added_3.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123832_Migration Added_3.Designer.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170222031622_migration_4.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170222031622_migration_4.Designer.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170222094754_new migrations.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170222094754_new migrations.Designer.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\UpdateAndProductModelSnapshot.cs
-C:\Users\asif\Documents\Visual Studio 2015\Projects\ORM_Assignment_2\src\ORM_Assignment_2\Properties\AssemblyInfo.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\ProductModel.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Program.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\UpdateAndProduct.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\UpdateModel.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221122500_Migration Added.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221122500_Migration Added.Designer.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123146_Migration Added_1.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123146_Migration Added_1.Designer.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123624_Migration Added_2.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123624_Migration Added_2.Designer.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123832_Migration Added_3.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170221123832_Migration Added_3.Designer.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170222031622_migration_4.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170222031622_migration_4.Designer.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170222094754_new migrations.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\20170222094754_new migrations.Designer.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Migrations\UpdateAndProductModelSnapshot.cs
+D:\Asif Assignment\Bootstrap\ORM_Assignment_2\src\ORM_Assignment_2\Properties\AssemblyInfo.cs
